@@ -21,7 +21,7 @@ def gencheck():
 def remove(string):
     return string.replace(' ', '')
       
-print('made by minori' + '\n')
+print('made by minori from breached.co' + '\n')
 
 
 print('option 1 = check code')
