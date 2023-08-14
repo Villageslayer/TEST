@@ -1,54 +1,23 @@
 [
     {
-        "_id": "642999f68f472e403c020c86",
-        "ip": "5.78.45.210",
-        "port": 25565,
+        "_id": "642999fa8f472e403c02371a",
+        "ip": "5.83.164.44",
+        "port": 20800,
         "description": {
-            "text": "Ultimate Zone, Incredible Realms, As U Wished"
+            "text": "nitrado.net gameserver"
         },
         "enforcesSecureChat": false,
         "hasFavicon": true,
         "hasForgeData": false,
-        "lastSeen": 1686984220,
+        "lastSeen": 1686894006,
         "players": {
-            "max": 20,
+            "max": 8,
             "online": 0
         },
         "version": {
             "name": "1.19.2",
             "protocol": 760
         },
-        "cracked": false,
-        "preventsChatReports": true,
-        "previewsChat": false,
-        "geo": {
-            "country": "US",
-            "city": "Portland",
-            "lat": 45.5242,
-            "lon": -122.6684
-        },
-        "org": "Hetzner Online GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c94",
-        "ip": "5.62.71.6",
-        "port": 14600,
-        "description": {
-            "text": "LDZ Members Welcome!!"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1690161342,
-        "players": {
-            "max": 100,
-            "online": 0
-        },
-        "version": {
-            "name": "Spigot 1.20.1",
-            "protocol": 763
-        },
-        "cracked": false,
         "geo": {
             "country": "DE",
             "city": "Mannheim",
@@ -58,574 +27,185 @@
         "org": "marbis GmbH"
     },
     {
-        "_id": "6429946d8f472e403cfa5026",
-        "ip": "5.9.83.236",
-        "port": 25567,
+        "_id": "642999fa8f472e403c023713",
+        "ip": "5.83.164.39",
+        "port": 44200,
         "description": {
-            "text": "\u00a7f\u00d8SKR = Coole MineCraft Techno Server\nBy mlmattheus.com"
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": true,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1686894005,
+        "players": {
+            "max": 6,
+            "online": 0
+        },
+        "version": {
+            "name": "1.20.1",
+            "protocol": 763
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c023724",
+        "ip": "5.83.164.47",
+        "port": 29200,
+        "description": {
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": true,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1686894006,
+        "players": {
+            "max": 4,
+            "online": 0
+        },
+        "version": {
+            "name": "1.20.1",
+            "protocol": 763
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c02372a",
+        "ip": "5.83.164.45",
+        "port": 32200,
+        "description": {
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": false,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1686894006,
+        "players": {
+            "max": 8,
+            "online": 0
+        },
+        "version": {
+            "name": "Paper 1.19.2",
+            "protocol": 760
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c02370b",
+        "ip": "5.83.164.41",
+        "port": 11600,
+        "description": {
+            "extra": [
+                {
+                    "text": "Wallah HABIBI!!!!"
+                }
+            ],
+            "text": ""
+        },
+        "enforcesSecureChat": null,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1686894006,
+        "players": {
+            "max": 4,
+            "online": 0
+        },
+        "version": {
+            "name": "Spigot 1.18.1",
+            "protocol": 757
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c023745",
+        "ip": "5.83.164.48",
+        "port": 48800,
+        "description": {
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": true,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1686894007,
+        "players": {
+            "max": 4,
+            "online": 0
+        },
+        "version": {
+            "name": "1.20.1",
+            "protocol": 763
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c02373c",
+        "ip": "5.83.164.43",
+        "port": 59000,
+        "description": {
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": null,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1682254278,
+        "players": {
+            "max": 4,
+            "online": 0
+        },
+        "version": {
+            "name": "1.19.4",
+            "protocol": 762
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c023752",
+        "ip": "5.83.164.44",
+        "port": 65200,
+        "description": {
+            "text": "nitrado.net Forge Vanilla gameserver"
         },
         "enforcesSecureChat": true,
         "hasFavicon": true,
         "hasForgeData": true,
-        "lastSeen": 1690857712,
+        "lastSeen": 1685458718,
         "players": {
-            "max": 20,
-            "online": 0
-        },
-        "version": {
-            "name": "Paper 1.19.4",
-            "protocol": 762
-        },
-        "cracked": false,
-        "domain": "protection-firewall.prisenter.com",
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c91",
-        "ip": "5.78.60.227",
-        "port": 25565,
-        "description": {
-            "text": "Naluisitos Server"
-        },
-        "enforcesSecureChat": false,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692011499,
-        "players": {
-            "max": 20,
-            "online": 0
-        },
-        "version": {
-            "name": "1.19.3",
-            "protocol": 761
-        },
-        "cracked": false,
-        "geo": {
-            "country": "US",
-            "city": "Portland",
-            "lat": 45.5242,
-            "lon": -122.6684
-        },
-        "org": "Hetzner Online GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c8c",
-        "ip": "5.78.67.209",
-        "port": 25565,
-        "description": {
-            "text": "Wocraft Survival"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1680704304,
-        "players": {
-            "max": 32,
-            "online": 0
-        },
-        "version": {
-            "name": "Paper 1.19.4",
-            "protocol": 762
-        },
-        "cracked": false,
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c93",
-        "ip": "3.101.150.96",
-        "port": 25565,
-        "description": {
-            "text": "Hell 3.0"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1680944675,
-        "players": {
-            "max": 20,
-            "online": 0
-        },
-        "version": {
-            "name": "1.12.2",
-            "protocol": 340
-        },
-        "cracked": false,
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c9f",
-        "ip": "5.62.71.4",
-        "port": 25565,
-        "description": {
-            "text": "WadiaSoft's MInecraft Server"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692013638,
-        "players": {
-            "max": 80,
-            "online": 0
-        },
-        "version": {
-            "name": "1.16.4",
-            "protocol": 754
-        },
-        "cracked": true,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c9a",
-        "ip": "5.62.71.21",
-        "port": 25565,
-        "description": {
-            "extra": [
-                {
-                    "bold": true,
-                    "color": "aqua",
-                    "text": "Paradise"
-                },
-                {
-                    "bold": true,
-                    "color": "green",
-                    "text": "MC "
-                },
-                {
-                    "bold": true,
-                    "color": "aqua",
-                    "text": "1.19.4 "
-                },
-                {
-                    "color": "red",
-                    "text": "[Survival] "
-                },
-                {
-                    "color": "gold",
-                    "text": "[Skyblock] "
-                },
-                {
-                    "color": "blue",
-                    "text": "[PlotWorld]"
-                }
-            ],
-            "text": ""
-        },
-        "enforcesSecureChat": true,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692014649,
-        "players": {
-            "max": 100,
-            "online": 0,
-            "sample": [
-                {
-                    "id": "60c5abe1-f4b4-4b2b-855c-eeed1434914a",
-                    "name": "Kysggggg",
-                    "lastSeen": 1691571285
-                }
-            ]
-        },
-        "version": {
-            "name": "Paper 1.19.4",
-            "protocol": 762
-        },
-        "cracked": false,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c8e",
-        "ip": "5.78.54.249",
-        "port": 25565,
-        "description": {
-            "text": "Powered by AMP"
-        },
-        "enforcesSecureChat": false,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1681508094,
-        "players": {
-            "max": 10,
-            "online": 0
-        },
-        "version": {
-            "name": "Paper 1.19.3",
-            "protocol": 761
-        },
-        "cracked": false,
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c9d",
-        "ip": "5.62.71.12",
-        "port": 25565,
-        "description": {
-            "text": "Welcome to 1.20.1! "
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692005717,
-        "players": {
-            "max": 70,
-            "online": 0,
-            "sample": [
-                {
-                    "id": "29b4b2cb-bdca-4a2e-bc9b-54bffa975607",
-                    "name": "chaoswizard98",
-                    "lastSeen": 1691803704
-                },
-                {
-                    "id": "fe38b4f4-190f-4109-9e37-c36aaf484768",
-                    "name": "Frogbasher",
-                    "lastSeen": 1691803704
-                }
-            ]
-        },
-        "version": {
-            "name": "Paper 1.20.1",
-            "protocol": 763
-        },
-        "cracked": false,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020cb0",
-        "ip": "5.62.71.31",
-        "port": 25565,
-        "description": {
-            "text": "TekRP's Minecraft Server"
-        },
-        "enforcesSecureChat": true,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692012474,
-        "players": {
-            "max": 100,
-            "online": 0,
-            "sample": [
-                {
-                    "id": "00000000-0000-0000-0000-000000000000",
-                    "name": "Anonymous Player",
-                    "lastSeen": 1691875693
-                },
-                {
-                    "id": "e12f034d-9d67-4575-b026-148a8202f573",
-                    "name": "SparrowTide",
-                    "lastSeen": 1691882647
-                },
-                {
-                    "id": "61bcf339-34a7-4f0f-8bfa-c897e807dac4",
-                    "name": "TekRP",
-                    "lastSeen": 1691965516
-                }
-            ]
-        },
-        "version": {
-            "name": "1.20.1",
-            "protocol": 763
-        },
-        "cracked": false,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020ca7",
-        "ip": "5.62.71.23",
-        "port": 25565,
-        "description": {
-            "text": "WadiaSoft's Server"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692012955,
-        "players": {
-            "max": 80,
-            "online": 0
-        },
-        "version": {
-            "name": "Paper 1.17.1",
-            "protocol": 756
-        },
-        "cracked": true,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020cf1",
-        "ip": "4.4.205.156",
-        "port": 25565,
-        "description": {
-            "text": "Momentum SMP"
-        },
-        "enforcesSecureChat": true,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1686763212,
-        "players": {
-            "max": 15,
-            "online": 0
-        },
-        "version": {
-            "name": "Paper 1.19.4",
-            "protocol": 762
-        },
-        "cracked": false,
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020ce9",
-        "ip": "1.229.247.234",
-        "port": 25565,
-        "description": {
-            "text": "\u25b7 \uc11c\ubc84\uac00 \uc624\ud508\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \u25c1 \n \u00a7c\u27be /\ubcf4\uc0c1 \uc785\ub825 \uc2dc \ub2e4\uc774\uc544\ubaac\ub4dc 30\uac1c\uac00 \uc99d\uc815\ub429\ub2c8\ub2e4."
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1687384493,
-        "players": {
-            "max": 2023,
-            "online": 0
-        },
-        "version": {
-            "name": "Waterfall 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x, 1.14.x, 1.15.x, 1.16.x, 1.17.x, 1.18.x, 1.19.x",
-            "protocol": 760
-        },
-        "cracked": true,
-        "modinfo": {
-            "type": "FML",
-            "modList": []
-        },
-        "geo": {
-            "country": "KR",
-            "city": "Nowon-gu",
-            "lat": 37.6559,
-            "lon": 127.0767
-        },
-        "org": "SK Broadband Co Ltd"
-    },
-    {
-        "_id": "642999f68f472e403c020ca4",
-        "ip": "1.34.184.103",
-        "port": 25565,
-        "description": {
-            "text": "\u00a76The World of Brian & Paul Open for 24Hours \u00a74v.1.17"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1687952166,
-        "players": {
-            "max": 21,
-            "online": 0
-        },
-        "version": {
-            "name": "1.20.1",
-            "protocol": 763
-        },
-        "cracked": false,
-        "geo": {
-            "country": "TW",
-            "city": "New Taipei",
-            "lat": 24.9466,
-            "lon": 121.586
-        },
-        "org": "Data Communication Business Group"
-    },
-    {
-        "_id": "642999f68f472e403c020cac",
-        "ip": "5.62.71.38",
-        "port": 25565,
-        "description": {
-            "extra": [
-                {
-                    "text": "hello"
-                }
-            ],
-            "text": ""
-        },
-        "enforcesSecureChat": false,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692009011,
-        "players": {
-            "max": 70,
-            "online": 0,
-            "sample": [
-                {
-                    "id": "c1c2f348-5381-49f2-8e22-77846c776f74",
-                    "name": "bbvsan",
-                    "lastSeen": 1691542329
-                },
-                {
-                    "id": "910f87fb-d13f-4a6b-91b7-a962cd9a828d",
-                    "name": "Xx_DarkLink_xX",
-                    "lastSeen": 1691711472
-                },
-                {
-                    "id": "55eb48d4-73db-42ba-9b11-eeaebb4d7907",
-                    "name": "WaddlyKirby",
-                    "lastSeen": 1691956524
-                },
-                {
-                    "id": "dcf5ade0-3051-48b7-9579-5069bae8ab8b",
-                    "name": "Tingsters",
-                    "lastSeen": 1691974224
-                }
-            ]
-        },
-        "version": {
-            "name": "Spigot 1.19.2",
-            "protocol": 760
-        },
-        "cracked": false,
-        "previewsChat": false,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH"
-    },
-    {
-        "_id": "642999f68f472e403c020c98",
-        "ip": "5.62.71.19",
-        "port": 25565,
-        "description": {
-            "text": "Welcome, Let's Create!"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1692014570,
-        "players": {
-            "max": 70,
-            "online": 0
-        },
-        "version": {
-            "name": "1.18.2",
-            "protocol": 758
-        },
-        "cracked": true,
-        "forgeData": {
-            "fmlNetworkVersion": 3,
-            "d": "\u2921\u0000\u0100\u00a4\u4c18\u230b\u2757\u2dce\u0c01\u1817\u312e\u1c00\u1588\u23a3\u2657\u2c8e\u5b9d\u32b3\u6e6f\u24e6\u38c4\u4989\u22e3\u45a6\u1bd1\u33b9\u2d65\u5c66\u38c8\u0991\u3060\u4ead\u1958\u39b5\u0d01\u68cc\u1589\u1b9b\u6657\u2e8d\u185a\u39b6\u1802\u6ae6\u15c1\u6b93\u2616\u2e8e\u1a9a\u1b37\u3234\u5ec6\u19b9\u3b4b\u16c6\u4c4d\u0c41\u1897\u362e\u18c4\u65cc\u1b73\u35f6\u4dec\u599b\u33b4\u0173b\u1800\u0b80\u3756\u0c2c\u015b\u1718\u2e35\u0460\u4428\u0bab\u2726\u0f2e\u5b1c\u39ba\u3108\u7262\u38c8\u7181\u4302\u2da0\u1a58\u00b71\u1a04\u25cc\u036b\u56c7\u2dac\u19d8\u32b7\u7374\u620a\u44b8\u4971\u5043\u2c2d\u5b9a\u1880\u0000\u4410\u51bd\u130b\u5697\u2dae\u0c41\u1c17\u322e\u2604\u39a4\u2ba3\u2676\u0c2e\u195d\u3a32\u7265\u52da\u05b9\u1b63\u1057\u05c6\u4b8d\u061a\u6863\u5cc2\u15b9\u7b63\u16d5\u4d2c\u415b\u1718\u2e30\u0260\u1c08\u0b80\u1726\u6cec\u5b9b\u1982\u302e\u645c\u3410\u4b0b\u36e6\u4620\u4c0b\u0100\u6721\u42e4\u25d9\u0ba3\u1746\u4ded\u185b\u36b6\u646f\u58ea\u5185\u734b\u5676\u2dce\u1d1a\u3bba\u6165\u66d6\u4429\u0971\u6393\u2645\u0c8b\u1c17\u6721\u42e4\u25d9\u0ba3\u1746\u4ded\u185b\u36b6\u646f\u58ea\u5185\u734b\u5676\u2dce\u1d1a\u3bba\u6165\u66d6\u4419\u0971\u6393\u0645\u0000\u3108\u6d61\u5ec4\u15bd\u2bb3\u1726\u0e8f\u1a5a\u33b7\u3217\u645c\u50b8\u1169\u1756\u0d8d\u4b99\u1999\u6d2b\u62c6\u44b8\u71c9\u0322\u00e0\u5a1d\u3932\u616d\u10d8\u40c4\u1171\u02e3\u25c6\u008d\u308b\u5f64\u66c2\u49d1\u7b0b\u1675\u2e6d\u1b19\u32b6\u615f\u48c8\u39bd\u0823\u12e3\u0666\u5b41\u34b0\u016e`\u3800\u0308\u4707\u2d2d\u5919\u37b1\u6b6f\u5cd2\u159d\u7190\u6302\u4665\u4300\u3934\u6e6f\u4ad4\u41d1\u1b0b\u36b6\u40ae\u0b8d\u1718\u0433\u42da\u39a5\u081b\u02e3\u4026\u02c0\u3339\u6f74\u58de\u09cd\u1b0b\u4657\u4621\u4c4b\u171c\u2d31\u5c68\u38c4\u59a9\u6720\u6e8c\u1bdb\u39b6\u6162\u4ae6\u440d\u0171\u2013\u00e0\u585b\u32b9\u6972\u0ade\u38c4\u71a9\u4322\u2da2\u1a58\u2fb7\u656e\u6ee8\u49bd\u7b5b\u0635\u4c2d\u5b9b\u3632\u3201\u0000\u0c0c\u6ba3\u10e6\u25c6\u0e4c\u1917\u312d\u625c\u58b8\u4159\u4023\u4f00\u195b\u053a\u2e31\u7262\u54b4\u0971\u32e3\u0086\u5b9e\u3a32\u3103\u605c\u0804\u2848\u1766\u6d8d\u5c98\u3330\u0674\u5c62\u38c8\u3189\u30c3\u2d0c\u1b98\u32b7\u5f6c\u42da\u39a5\u082b\u02e3\u05c6L\u0400\u7579\u4edc\u05cd\u4b83\u1126\u25c6\u0e4c\u1917\u462d\u64de\u159d\u196b\u02e3\u25c7\u400e\u3802\u776f\u50c2\u5015\u0171\u62e3F\u59c2\u3a30\u7765\u72c2\u15cd\u7198\u6312\u6625\u18c1\u30b4\u6e6e\u58ca\u4415\u0171\u02e3&\u4280\u30b1\u6c62\u68ca\u15a5\u1b93\u10d7\u25c6\u0e4c\u1917\u302d\u6a5c\u5cd0\u0189\u20b0\u4c2e\u59db\u3232\u7570\u60da\u15cd\u7188\u6302\u0605\u4200\u39bb\u7774\u42ca\u4dad\u402b\u02e3\u45c6\u008c\u3983\u7268\u5cd2\u15ad\u7188\u6332\u06a5\u5b43\u34b0\u5f6e\u50c6\u3985\u2b73\u16c6\u0620\u0080\u3387\u6175\u48e4\u25d9\u6363\u7616\u4cac\u1cdc\u1886\u312e\u5c72\u34c8\u7189\u6352\u06a5\u5b41\u34b0\u016eb\u3408\u73a8\u6696\u4cae\u5cdc\u3630\u7267\u48d2\u4431\u0971\u6393\u2645\u0c4b\u1817\u3333\u5a18\u2585\u7b73\u0635\u4c2d\u5b9b\u3632\u3101\u0000\u1024\u130b\u56b7\u2e8e\u5b1a\u0339\u3331\u625c\u5cb8\u5011\u0610\u0dee\u5a1d\u37b2\u6973\u0ae6\u38d8\u7189\u2352\u0c21\u1bdc\u343a\u6f65\u52e6\u15cd\u7188\u6302\u2605\u4000\u3a09\u6568\u5ae4\u3185\u4afb\u46e6\u6cae\u5c99\u3a30\u6f69\u12dc\u40c4\u1171\u02e3\u25c6\u0dcc\u0400\u6c63\u46d2\u05ad\u3323\u0007\u4080\u1858\u36b6\u3405\u6a5c\u5cb8\u5809\u56a0\u2e4c\u5cd9\u3ab7\u6372\u66ca\u4001\u2b10\u4746\u4cae\u599c\u3937\u7274\u66ca\u15cd\u139b\u6311\u2625\u0b8e\u1699\u6f46\u4ee4\u3595\u7189\u6302\u26a5\u4300\u3631\u746f\u3ed0\u3d8d\u3373\u7696\u404c\u1cc3\u32b4\u6974\u50e0\u05a5\u1b73\u26f6\u2cae\u0cc2\u1897\u2e31\u5c66\u44c0\u6861\u1616\u6dcd\u18d7\u30b4\u6e6e\u58ca\u4415\u0171\u02e3\u0006\u4100\u3a31\u766f\u660a\u44b8\u4171\u4003\u2da2\u1cde\u34ba\u6163\u42d8\u499d\u230b\u1646\u2e8d\u1bda\u39b7\u3605\u605c\u48b8\u0011\u5721\u6c8c\u5d1c\u3737\u5f65\u64c2\u15cd\u0b73\u06c6\u46e1\u0c8b\u1817\u312e\u1c6a\u3198\u43ab\u35f7\u2d0e\u195a\u3236\u6e69\u02ce\u04c4\u7810\u5730\u0e0e\u5b1c\u36b2\u6e65\u42e8\u25c9\u1b2b\u10d7\u25c6\u0e4c\u1917\u322d\u645c\u58b8\u39a1\u56e0\u6e8c\u1bdd\u35b9\u3101\u0400\u4838\u332b\u6696\u0cad\u1cd9\u37ba\u6172\u4ace\u4419\u0971\u6313\u06a5\u5b43\u34b0\u5f6e\u50c6\u3985\u2b73\u16c6\u0620\u4080\u3986\u7274\u46ea\u55d1\u2b93\u75f6\u0cac\u015b\u1719\u2e37\u0862\u05b4\u734b\u2016\u0006\u4480\u3230\u6176\u46dc\u3595\u732b\u0746\u2d8e\u5c58\u32ba\u0373\u1c82\u0165\u0888\u1656\u4dcd\u1a59\u34b7\u7974\u5ec4\u4dbd\u2ba3\u7726\u4621\u4c4b\u171c\u2d32\u5c62\u38c8\u5981\u1312&\u5c02\u31b0\u6d6b\u5cca\u01d5\u0850\u46c6\u0e8d\u595a\u3937\u7365\u6426\u40b8\u1171\u12d3\u25c6\u0e4c\u1917\u342d\u5c66\u38c4\u1199\u1130\u0dcd\u5d59\u3a39\u6972\u58c2\u3d99\u2b93\u7676\u4d2d\u59db\u1983\u332e\u645c\u4cb8\u7039\u4656\u6eee\u5c9b\u01b5\u2e31\u0260\u2c00\u7ba0\u3726\u2d0c\u585b\u3a39\u7265\u620c\u38e4\u7191\u0302\u0160\u185a\u3237\u7263\u4cc2\u15d1\u2b23\u6320\u4605\u0d8b\u0a80\u6572\u6ae0\u41c9\u1b7b\u4657\u6bec\u1d1c\u3ab9\u7463\u64ea\u4d95\u306b\u32e3\u25c6\u4e0c\u1895\u312e\u5c72\u00c8\u2090\u5687\u2e4c\u185b\u2fb6\u6e69\u5edc\u05d9\u4ba3\u66f6\u212d\u0c0c\u1917\u302e\u625c\u00e0\u1058\u46f6\u4c2e\u1e5b\u393a\u6565\u0ae6\u38d4\u7181\u2342\u2180\u5c9a\u3737\u7566\u5ce4\u0d85\u1b2b\u3057\u45c6\u4b8d\u0a1a\u7269\u5cde\u5599\u7393\u3616\u6cac\u17dc\u32b7\u7774\u64de\u0dad\u7188\u1302@\u1cc4\u393a\u6375\u6ae8\u15c9\u7b1b\u06d6\u6c2e\u5cdc\u1882\u332e\u6a5c\u3410\u4b0b\u16e6\u0620\u4000\u3685\u7763\u64e8\u11c1\u7b7b\u3726\u20ae\u0b8c\u1718\u0239\u6614\u31a5\u732b\u7746\u2cac\u5c98\u1982\u322e\u6a5c\u381c\u232b\u7777\u6e4d\u431a\u33b9\u6165\u5ae4\u15b8\u6ba3\u4312\u0006\u4580\u3ab9\u6570\u5ae4\u4985\u4ba3\u66a6\u06cd\u4c8d\u37b1\u6572\u52d8\u1589\u7188\u6312\u46c5\u01c0\u37b1\u6174\u52dc\u4185\u7188\u1312\u45c7\u0b4c\u199a\u2d38\u1e8c\u1d49\u222a\u16d0\u4d2c[\u0018\u1100\u4ae4\u3dcd\u13ab\u5637\u2ccc\u5b1d\u37b1\u666e\u4ed2\u4419\u0171\u22e3\u2606\u4140\u3839\u7261\u04d6\u0c18\u13ab\u7697\u4e6d\u0c43\u1897\u2e39\u5a64\u38d4\u7189\u6332\u0605\u5b41\u34b0\u016eb\u4400\u7b18\u1726\u0d2c\u57db\u37bb\u646f\u6ac6\u51d1\u132b\u2057\u25c6\u0b8d\u0119\u650b\u4adc\u1dc9\u6bcb\u4656\u4cae\u431c\u1718\u3931\u645c\u44b4\u0171\u02e3\u40e6\u195b\u3bba\u726f\u02d6\u00c4\u6010\u5610\u264c\u1918\u34b2\u6974\u5cde\u15cd\u71a0\u6302\u6665\u5b83\u3a32\u6f77\u56e4\u0d7d\u0b43\u66e6\u0cad\u405b\u0098\u0d02\u48c2\u1dd9\u732b\u2656\u0c2e\u1bdd\u39b9\u3107\u685c\u40b8\u2971\u70a3\u4cac\u195b\u30b9\u6f74\u66e4\u4805\u0001\u50c0\u2cad\u5cd8\u393a\u6d65\u5cca\u4dd1\u082b\u32e3\u25c6\u400c\u3c85\u6e75\u66ce\u6195\u13a3\u3617\u224e\u4b8c\u1c98\u322e\u0c5a\u49bd\u2b3b\u32d6\u25c6\u0b8c\u0018\u6109\u4edc\u3195\u4b93\u76e6\u40ac\u4b8c\u1718\u0235\u4c18\u05c9\u2b6b\u2646\u6d8c\u58db\u39b5\u3605\u705c\u48b8\u6821\u1616\u2dcd\u0c40\u0000\u7412\u4ad0\u35c9\u630b\u65f6\u2dec\u1b9d\u30b2\u6974\u5cde\u4425\u7181\u6322\u4605\u4d0b\u011b\u7409\u5ade\u4d89\u7ba3\u56e6\u00ac\u0b8e\u1719\u1137\u5ee8\u09b5\u239b\u66f7\u6cad\u18d7\u30b4\u6e6e\u58ca\u503d\u6b7b\u3626\u6e8e\u5b9b\u16b2\u2e38\u5c64\u00dc\u6810\u6690\u2e8d\u19d9\u30b9\u6574\u5cc8\u5189\u082b\u62e3\u05c6\u410c\u30b6\u6e69\u6202\u0000\u0848\u46e6\u6d2e\u5a19\u39b7\u1874\u5c62\u64c4\u0971\u62d3\u4dec\u59dc\u1a32\u2e32\u5c60\u34c4\u7189\u6312\u0665\u4300\u3c32\u7274\u66c2\u3dd1\u0b93\u5676\u60ac\u0b8c\u17181\u6824\u15a1\u6b93\u4616\u0bed\u5bdb\u37b1\u6f6d\u52e8\u39bd\u084b\u6303\u4645\u0c0b\u1897\u0234\u5c16\u5185\u13ab\u3657\u2c2e\u5c9d\u0230\u3833\u605c\u381c\u232b\u7777\u6e4d\u405a\u0018\u1002\u5ec6\u4db9\u13a3\u3757\u2e8c\u1bda\u3bb7\u6e61\u16c8\u38c4\u4989\u22e3\u45a6\u4b8c\u1818\u6d04\u52c2\u05b9\u0188\u0000\u6da1\u1dd8\u37b9\u666f\u0ae6\u38c8\u7191\u6332\u01e0\u1a5b\u3a3a\u656c\u5ed8\u259d\u239b\u3697\u2e6c\u0c41\u1997\u322e\u5824\u0dbd\u6b7b\u46f6\u4d2e\u595d\u31af\u6168\u5cdc\u3195\u080b\u1003\u2e82\u59dd\u392f\u756f\u4ae8\u0d7d\u0b43\u66e6\u0cad\u405b\u0018\u7617\u50ca\u0da5\u2b63\u45f6\u2e4e\u58d8\u32b5\u5f72\u50c6\u3985\u2b73\u16c6\u0620\u4080\u3181\u6d66\u6e16\u40b8\u0171\u02d3\u2e4e\u4cd9\u039a\u656e\u6ee8\u49bd\u0b5b\u0310\u4000\u5c83\u3332\u6e69\u48ca\u3d8d\u5b7b\u6696\u2ced\u0cc1\u1817\u332e\u1a00\u0598\u239b\u56c7\u4c2c\u5919\u31b2\u7961\u6604\u00c0\u1080\u4656\u2e8e\u5c99\u34b6\u656e\u50e6\u1985\u1ba3\u1127\u25c6\u0e4c\u1917\u462d\u64de\u159d\u196b\u22e3\u05c6\u408c\u3384\u6365\u5ed6\u25b1\u1b13\u3063\u25c6\u0b8c\u181a\u6d04\u52c2\u05b9\u0180\u3040\u4e60\u5b59\u1a02\u352e\u625c\u341c\u730b\u7616\u4cac\u405c\u0018\u6c08\u44c2\u3195\u2b3b\u16e7\u0620\u0080\u3a08\u6568\u5ae4\u3185\u22fb\u6796\u2c2d\u5a5b\u39b1\u3107\u5c60\u38c8\u1189\u7076\u4cac\u195b\u30b9\u016c\u0262\u2000\u4bb0\u1746\u2d8c\u5e9a\u02b2\u2e31\u5c62\u00c4\u6848\u7636\u2d8e\u19da\u3a34\u0573\u5c62\u38c0\u11a9\u3130\u2e4c\u1998\u34ba\u676e\u5ebe\u7db9\u7b0a\u4735\u6d2e\u5ad8\u1882\u302e\u6a5c\u3410\u4b0b\u56e6\u4620\u0c0b\u1a17\u0100\u661a\u05b5\u2393\u2627\u2c2e\u1b9a\u34b6b\u4a14\u65b1\u13a3\u3617\u6d8e\u1d1b\u1b06\u312e\u605c\u44ac\u0971\u6393\u0645\u0300\u37b7\u6f6d\u42ee\u11b9\u132b\u2657\u218e\u4b8c\u1c98\u322e\u62be\u4cb8\u3171\u2003\u0cc1\u189d\u34b6\u7262\u64c2\u4de5\u4988\u2303\u65c6\u4b8c\u1b18\u622d\u52ea\u11b1\u0973\u3393\u4046\u5c82\u31b2\u6968\u4ae6\u15b1\u3b23\u6310\u4605\u0c4b\u3099\u6d04\u52c2\u05b9\u0188\u7020\u2d01\u1c98\u32bb\u7473\u52ee\u21d1\u0b2b\u5736\u41ac\u0b8d\u1718\u2e30\u5a60\u2598\u0b73\u46c6\u2da0\u1a58\u0437\u2e31\u7262\u58b4\u0171\u2003\u4060\u595a\u05b4\u3131\u6c5c\u40b8\u0971\u1303\u6666\u18c1\u30b4\u6e6e\u58ca\u4415\u0171\u02e3\u4026\u40c0\u32b0\u0632\u6462\u64b8\u1171\u5043\u2c2d\u5b9a\u1880\u0201\u5a16\u31d5\u4ba3\u1706\u0e6d\u1bdd\u09b7\u2e31\u7262\u48b8\u0969\u22e3\u45c6\u4c4c\u2096\u504c\u0290\u382d\u232b\u32d7\u2d0c\u1b98\u32b7\u036c\u5c62\u00c0\u6000\u4610\u4e8e\u1a5c\u3ab1\u6574\u52cc\u01e1\u4810\u5740\u6e6c\u195c\u30b9\u7463\u620c\u40b8\u1171\u4393\u2da0\u1a58\u00b71\u1004\u15b4\u0b5b\u16e6\u2e6d\u419b\u1818\u332e\u705c\u3420\u5b2b\u6616\u6d2d\u1b5c\u1883\u2e30\u5c66\u00e0\u3010\u1630\u0cac\u5d5b\u0739\u2e31\u7262\u48b8\u1969\u02e3\u05c6\u0b8c\u021b\u616d\u5cd2\u4405\u2001\u2050\u0c8c\u1a5b\u0431\u2e31\u6a64\u40b8\u2971\u5043\u6d2d\u58dc\u1880\u0a00\u6ada\u51b1\u134b\u76c6\u6c6dZ\u0019\u1000\u58c2\u51b1\u2b43\u7636\u0dad\u5c9c\u39b2\u6573\u0ac8\u38c8\u7181\u2302\u41c0\u185b\u3aba\u6572\u46e6\u35bd\u0b83\u3736\u226e\u4b8c\u1c98\u322e\u625a\u44b8\u7181\u5302\u6cc5\u5c9b\u32b3\u6e0e\u68c2\u49d5\u1b2b\u7637\u0dad\u585c\u39b9\u3103\u605c\u0004\u5040\u5756\u4e0d\u5bd8\u3a30\u310c\u625c\u34e4\u7181\u6312\u4605\u0d4b\u0201\u696c\u70c4\u4431\u0971\u6393\u2645\u0d0b\u1917\u382e\u5c14\u5195\u431b\u6616\u2dcd\u5b19\u1c80\u0400\u461e\u35bd\u0b83\u4636\u2dae\u18d8\u34b4\u656e\u0ae6\u38d4\u7189\u4302\u2da0\u1a58\u02b7\u2e35\u5c62\u00c0\u1068\u76f7\u6dad\u1d17\u30b9\u6b63\u5cd2\u159d\u7188\u6302\u0605\u0000\u3105\u746f\u5cc2\u41e5\u237b\u6737\u4720\u0c0b\u1917\u0438\u601e\u3da1\u039b\u7687\u0e0d\u1e5a\u3636\u7469\u18ca\u38c0\u71b1\u5302\u2c45\u5d19\u1730\u1a37\u50e0\u4dbd\u4383\u06f6\u2d0e\u1b1e\u34b6\u6574\u465e\u39bd\u4b33\u3676\u4f2e\u58db\u1880\u1200\u6ada\u51b1\u134b\u76c6\u6c6d\u4bda\u3ab3\u7369\u5cf2\u058d\u0180\u4020\u2cc2\u5c98\u34b6\u676e\u5ecc\u09c9\u7b63\u3636\u2d0d\u1859\u39b2\u3106\u5c62\u38c8\u3981\u56e0\u6e8c\u1bdd\u35b9\u3103\u605c\u0800p\u56e7\u2eac\u185b\u34ba\u6363\u42e4\u5199\u087b\u12e3\u4726\u4c8b\u1a16\u332e\u665c\u48b4\u6191\u16d0\u4d2c\u57db\u3431\u6e61\u4adc\u05b1\u01c8\u1020\u6c61\u199b\u2fb4\u6f63\u4ae4\u4419\u7181\u6322\u6625\u59c1\u3732\u7265\u58c2\u4405\t\u1110\u0c8c\u1a59\u34ba\u6e6f\u58c2\u317d\u3b4b\u4686\u2e6e\u0c81\u1897\u362e\u1604\u4984\u7b9b\u76e5\u4ead\u595d\u3ab0\u3306\u625c\u38c8\u3999\u56e0\u6e8c\u1bdd\u35b9\u3103\u605c\u0004\u2850\u4786\u2e4e\u5918\u39b4\u736b\u6218\u44b8\u71c9\u5322\u4645\u0c8b\u1817\u0900\u48ca\u59a5\u230b\u16c6\u2c4d\u0c41\u1917\u302e\u1804\u19c8\u7ba3\u46f6\u0e6d\u5bdc\u32bb\u0a72\u5c62\u64c4\u2969\u12e3\u25c6\u030c\u3339\u6f74\u58de\u41cd\u3b7b\u2657\u206e\u0b8c\u0098\u0504\u5ecc\u1dc9\u1b2b\u6410\u2b29\u1cc1\u3638\u7469\u6206\u44b8\u6009\u1740\u4cad\u57dc\u37b9\u7472\u5cd2\u0d9d\u7188\u0302\u2000\u1981\u313a\u6369\u6224\u40e4\u7181\u6312\u26e5\u588b\u34ba\u646c\u645c\u48c4\u1011\u6691\u2e8d\u19d9\u30b9\u6574\u46c8\u05c9\u2333\u6697\u2ced\u0c41\u1897\u312e\u4618\u05a1\u7373\u4656\u2bed\u585b\u3734\u3105\u605c\u40b8\t\u40e0\u4eac\u59db\u37b2\u736e\u42be\u25c9\u2b9b\u20d6\u25c6\u4b8c\u1a1a\u312d\u625c\u38e4\u1191\u10b0\u6d8c\u5a18\u36b2\u7369\u64e8\u31e5\u7188\u1312\u45c7\u0b4c\u1719\u2e32\u0868\u05b4\u734b\u1056\u05c6\u0b8c\u0018\u0904\u52da\u15b9\u131b\u6617\u4e8c\u0c41\u1897\u2e39\u1464\u39d4\u2b93\u1676\u0e6d\u195d\u0239\u4d46\u6698\u2004\u2b90\u1676\u0e6d\u195d\u0239\u4d46\u6698\u0004\u1028\u4617\u4dec\u015b\u1718\u2e38\u0464\u4c20\u1bcb\u5747\u2c2c\u5cdb\u1882\u322e\u665c\u4850\u1b2b\u0696\u6cae\u5d97\u3932\u6973\u5cde\u0d7d\u2b43\u3636\u202d\f\u0581\u6874\u5eca\u15b9\u1383\u26f7\u4cac\u0c42\u1897\u2d39\u5c6c\u38c8\u5991\u0740\u6cad\u5b9b\u3832\u6f72\u4ac4\u440d\u0171\u0013\u0180\u195d\u3939\u6261\u4ad8\u11b9\u132b\u2097\u05c6\u4b8c\u1718\u3331l\u342c\u2b7b\u5737\u6e8c\u595d\u35b0\u0373\u1c82\u0165\u3048\u2746\u2e2c\u595d\u3a39\u1373\u7262\u48c0\u2171\u12e3\u2606\u588b\u34ba\u646c\u645c\u48c0\u2011\u5691\u2dad\u5c99\u34b9\u6576\u5cca\u259d\u2b73\u2656\u4d2e\u19db\u1888\u312e\u5c72\u34c8\u71c9\u6322\u2605\u0c4b\u191b\u6d04\u52c2\u41b9\u7188\u1312\u45c7\u4b4c\u171c\u2e32\u5a60\u58c4\u0191\u5020\u6dc1\u18db\u30b4\u7274\u60ca\u49bd\u1ba3\u10d7\u25c6\u0e4c\u1917\u762d\u5c62\u38d4\u2189\u16d0\u4d2c\u405b\u0018\u0c00\u58c2\u51b1\u2b43\u76d6\u2c8d\u5d5a\u09b6\u2e32\u5c62\u34d8\u7189\u1312\u45c7\u0b4c\u199a\u312e\u625c\u2808\u0398\u3657\u4e8c\u195c\u34b6\u0d62\u5c60\u48c4\u2171\u12b3\u25c6\u0e4c\u1917\u6d04\u52c2\u05b9\u0988 \u6c61\u5c9b\u34b3\u696c\u10c4\u38c4\u7181\u6302\u4665\u01cc\u32b7\u7774\u64de\u05ad\u0188\u0000\u6c82\u5b5b\u36ba\u6f5f\u5ce4\u3585\u732b\u5746\u2dae\u0c44\u1897\u2d39\u5c62\u38c0\u31b9\u12d3\u0988\u5214 \u6b0e\u68de\u25b1\u3373\u26f6\u6cce\u5c9b\u32b3\u3306\u625c\u38c4\u1181\u20e0\u0cce\u5bdd\u3637\u6273\u52ea\u11b1\u132b\u10c7\u25c6\u0e4c\u1897\u352d\u645c\u4cb8\u1071\u4667\u6dee\u5b1b\u3139\u6975\u48d8\u4995\u081b\u02e3\u4026\u0140\u34b8\u6570\u18f4\u38c4\u4989\u22e3\u25a6\u0b8c\u1718\u0731\u4ac8\u0599\u63ab\u5746\u4620\u0c0b\u1817\u0101\u4c10\u65b1\u43bb\u5656\u4d8c\u4480\u3734\u6574\u64ce\u5185\u232b\u1646\u2dcf\u5b58\u31b4\u0673\u5c62\u58c4\u1171\u30c3\u2d0c\u1b98\u32b7\u5f6c\u42da\u39a5\u082b\u02e3\u05c6L\u0701\u7469\u5aca\u3d8d\u6363\u3656\u6e8c\u5c9b\u02b9\u2e31\u5c62\u10dc\u0b68\u6696\u202d\f\u0480\u7263\u60de\u3dd1\u4b83\u5616\u4640\u0c8b\u1917\u0900\u4ada\u059d\u2b1b\u46c6\u6e6d\u0c84\u1817\u302e\u445a\u5195\u730b\u5372\u4625\u4c4b\u171c2\u6826\u15a1\u6b93\u4616\u6bed\u1d58\u3a36\u7669\u68c2\u3da5\u4b73\u0310\u45c6\u0b8c\u1718\u3731\u0600\u2188\u631b\u6310\u2625\u0b8e\u1699\u2e31\u5c66\u00c0\u6840\u2796\u4e8e\u595c\u39b2\u310e\u645c\u40b8\u1169\u1756\u0d8d\u4b99\u1899\u0902\u5ee0\u65b1\u7b6b\u0726\u2d0e\u0c03\u1a17\u2e36\u5662\u38c4\u4989\u22e3\u2086\u585b\u3734\u3101\u0000\u2854\u1bab\u5747\u6dcc\u5d5b\u3433\u7270\u4cde\u4d95\u4b9b\u66f6\u2e6d\u1507\u30b9\u736e\u2440\u1da5\u2343\u0737\u4824\u195c\u2410\u6d75\u5cc2\u4881\u3b4a\u4686\u0e6e\u4280\u3ab0\u6f74\u4ae4\u319d\u134b\u1086\u05c6\u0b8e\u1699\u3535\u1a04\u15cc\u2b1b\u1727\u2e8d\u18de\u30b9\u7466\u620a\u64b8\u2171\u30d3\u6cae\u1d58\u34b9\u7974\u64c6\u1985\u33a3\u1760\u25c6\u0b8e\u001a\u1902\u5cd2\u15d1\u133b\u4617\u0cae\u5d19\u3932\u696d\u42dc\u4db1\u7b1b\u06d6\u0c2e\u415d\u1718\u2e34\u186a\u218c\u730b\u56e6\u6d8c\u5b57\u34b0\u056e\u5c62\u38c0\u0981\u5000\u0c21\u5b5b\u39b7\u7574\u52dc\u2599\u232b\u10c6\u25c6\u0e4c\u1917\u302d\u665c\u58b8\u6811\u5640\u0cac\u5c9c\u39b2\u6e6f\u5cc2\u158d\u0853\u12e3\u2726\u0d0b\u1897\u322e\u481a\u1595\u1383\u3657\u4dee\u185b\u31b7\u0365\u5c62\u04c0\u5810\u4730\u2e4e\u18dd\u3aba\u6972\u4af4\u444d\u0971\u6393\u2645\u0c4b\u1817\u342e\u646e\u08b4\u222a\u3415\u2dc1\u5d19\u3196\u6168\u5cdc\u3195\u089b\u12e3\u4726\u4c8b\u1896\u302e\u685c\u48dc\u1169\u4454\u082a\u4000\u3305\u7361\u4ce8\u49d5\u0b73\u5636\u60ac\u0b8d\u1718\u0230\u4212\u41c1\u2b63\u3736\u4d2d\u031b\u1719\u2e34\u5664\u0db4\u718b\u1312\u6087\u1e5c\u31b7\u3101\u0402\u245c\u2373\u7657\u2e4c\u5d18\u3232\u7574\u5cdc\u3195\u1b9b\u56f6\u2e0d\u1d18\u1883\u382e\u625c\u30e0\u4318\u6616\u2dcd\u5b19\u36af\u6961\u0adc\u38c4\u7181\u1302\u2040\u5b01\u37b7\u7274\u6012\u4cb8\u1171\u6303\u66a5\u450d\u30b6\u6e69\u5cbe\u5195\u7bbb\u3726\u6bed\u5a18\u3730\u656e\u02d8\u00c8\u7000\u7630\u4dcd\u595b\u3a31\u6465\u58ce\u4d85\u2b9b\u6310\u4625\u0d8b\u0481\u636f\u6ac6\u51b1\u1b4b\u56d7\u4621\u4c4b\u171c\u2d32\u5c62\u4cdc\u1171\u5043\u2c2d\u5b9a\u1880\u0000\u4218\u31b1\u43a3\u4656\u2eee\u5859\u39b5\u3007\u605c\u3d38\u2a72\u3024\u2c40\u59de\u1903\u302e\u625c\u44b8\u7039\u4656\u6eee\u5c9b\u00b51\u1600\u4584\u0bab\u5636\u0d8e\u1d5d\u32b9\u310c\u625c\u38e4\u6991\u6322\u4685\u0e0b\u0a81\u6f63\u5ae6\u5195\u1b4b\u2616\u6dae\u1c9b\u32b9\u6f77\u56e4\u1195\u0853\u12e3\u4726\u4c8b\u3b16\u6131\u5a08\u2585\u0b73\u0320\u4000\u5902\u3632\u6769\u68d0\u5599\u2b63\u6330\u4645\u0c8b\u0401\u6461\u42be\u51cd\u0b93\u1066\u25c6\u0c8c\u1b17\u6d04\u52c2\u05b9\u0180\u4000\u6e41\u5c9c\u38b2\u6575\u68e6\u19a5\u2bcb\u6320\u4665\u0c0b\u0382\u6568\u4af0\u15c9\u2b4b\u6300\u4645\u4d4b\u3183\u6168\u5cdc\u3195\u080b\u7003\u2dc0\u5d19\u37bb\u6b72\u6202\u0800\u1858\u3796\u6d8c\u5c1b\u31b9\u726f\u0cca\u38c4\u4189\u22e3\u6186\u5a18\u3730\u656e\u3ed8\u05b5\u734b\u1056\u05c6\u0b8c\u0098\u0a02\u58c4\u15d5\u1afb\u16b7\u6cad\u419c\u1718\u2e33\u6064\u3410\u4b0b\u16e6\u0620\u0080\u3085\u636c\u4ad0\u65b5\u4b63\u5626\u4621\u4c4b\u171c\u2d32\u5c62\u38c0\u0191\u5043\u2c2d\u5b9a\u1882\u302e\u605c\u0000\u1078\u4656\u2e8e\u5c99\u34bb\u6374\u50d0\u51d5\u139b\u6311\u2625\u0b8e\u1699\u6f46\u4ee4\u3595\u7191\u6312\u2605\u03c0\u32b7\u6874\u64ca\u3dc1\u2393\u4617\u2ccd\u1e1a\u0581\u6961\u68de\u3d89\u0ba3\u16e6\u0c2d\u0c43\u1897\u2e39\u5a64\u38cc\u7181\u2302\u2dc1\u5d19\u3431\u6e61\u4adc\u05b1\u0188\u3020\u0c22\u5d99\u3730\u6563\u60c8\u4995\u034b\u5687\u2e4c\u5b18\u03b9\u2e30\u5c6e\u54c8\u6391\u16d0\u4d2c\u57db\u3431\u6e61\u4adc\u05b1\u0188 \u0ea1\u1a5d\u34b6\u6974\u18f0\u38c4\u4989\u22e3\u05a6\u4b8c\u171b\u0a37\u4adc\u0dd1\u0b43\u66e6\u0cad\u405b\u001b\u0a00\u42dc\u55d1\u0b93\u16c6\u0e6d\u015d\u1719\u2e31\u0262\u2034\u0b2b\u46c6\u6d0e\u5d9b\u3932\u616c\u00f2\u0850\u232b\u5747\u6e4c\u58db\u30b2\u6d6e\u5cde\u35d5\u732b\u3746\u224e\u4b8c\u1c98\u322e\u0c5a\u49bd\u2b3b\u22d6\u25c6\u0b8c\u0018\u630c\u5cde\u15b9\u231b\u6697\u0d2e\u1e5d\u0100\u7311\u60de\u25a1\u239b\u3697\u0c2c\u195d\u31b2\u726f\u22ca\u38c4\u4989\u22e3\u05a6\u4b8c\u171a\u3833\u645c\u4cc0\u1839\u1686\u4dcc\u195b\u00b61\u0c00\u2598\u2373\u56d6\u60ac\u4b8c\u17180\u4e16\u05b1\u1b9b\u6657\u2e8d\u185a\u0536\u2e31\u7262\u44b4\u1171\u42e3\u6026\u58c2\u3737\u7274\u58de\u25b1\u3b73\u4026\u6c62\u5bdb\u34b5\u676e\u5ecc\u09c9\u7b63\u3636\u2d0d\u1859\u39b2\u3106\u5c66\u38cc\u3989\u56e0\u6e8c\u1bdd\u35b9\u3103\u605c\u0000(\u1727\u2e6d\u40db\u2720\u0259\u600e\u05b1\u2b1b\u7626\u60ad\u4b8d\u1718\u0737\u58e0\u0d85\u132b\u56f6\u4620\u0c0b\u1817\u0201\u4816\u3985\u1b5b\u7747\u2e4d\u59d8\u0632\u2e31\u7262\u48b8\u2969\u12e3\u45c6\u02cd\u30b2\u6b6e\u68e6\u49bd\u3b0b\u3656\u4620\u4c0b\u0100\u700d\u68de\u3da5\u1b73\u16d7\u0e6c\u195d\u09b9\u2e30\u5c6c\u34c0\u7189\u1312\u45c7\u0b4c\u199a\u312e\u625c\u3430\u4b0b\u76e6\u0c6b\u185a\u3737\u6c65\u6202\u0000\u1048\u76f6\u6d6d\u5a1c\u3632f\u2c04\u3dcc\u4383\u3696\u2e8e\u58da\u3a30\u6465\u42c4\u2d8d\u0b83\u3636\u4e6d\u0c44\u1897\u2e39\u5a64\u38cc\u4189\u42e3\u4606\u4dcb\u1c9b\u6307\u42d0\u39b9\u632b\u1016\u0006\u0480\u34b6\u7474\u4ad8\u3d8d\u2373\u1727\u0e0c\u5a5d\u3737\u0873\u5c62\u64c4\u1171\u02e3\u6046\u5883\u34ba\u646c\u5cd2\u1d9d\u230b\u5676\u6e8c\u461c\u1719\u3631\u645c\u08b4\u4bab\u46c6\u45cc\u4c8c\u3695\u3163\u625c\u38e4\u2191\u16d0\u4d2c[\u001a\u0800\u46da\u11dd\u7b7b\u3726\u20ae\u0b8c\u1718\u0239\u5a24\u2d95\u730b\u3696\u6dae\u1959\u32b7\u6172\u5ee8\u4dc9\u0833\u6303\u4665\u0e0b\u3689\u6b65\u5cc2\u4da5\u3b6b\u6656\u4cad\u185c\u37ba\u7372\u620c\u38c0\u7199\u0382\u2000\u1e02\u32b7\u6774\u66c2\u4d95\u202b\u02e3\u05c6L\u3304\u6274\u4ae8\u3585\u139b\u4090\u2eac\u5b5b\u36b6\u6d6d\u18f2\u38c4\u4989\u22e3\u25a6\u4b8c\u171b\u0731\u4adc\u5dd1\u137b\u16b7\u0620\u0000\u3087\u7362\u5cca\u09d1\u23cb\u3656\u6d2e\u1b99\u1885\u312e\u5a72\u38c4\u71b9\u2302\u01c0\u5ddd\u3634\u6769\u68d0\u3d99\u2b93\u4736\u010e\u0b8d\u1719\u3531\u7062\u0c1c\u0b43\u66e6\u0cad[\u0019\u1202\u5eda\u7d89\u133a\u6697\u2c8d\u5b9a\u2fb3\u7475\u58d2\u35cd\u7188\u1312\u45c7\u0b4c\u1718\u2e34\u6e68\u381c\u232b\u7777\u6e4d\u451a\u37b6\u5f62\u64ce\u39a5\u4b23\u76e6\u2bec\u5d1d\u3634\u3a73\u0262\u4000\u4328\u5707\u2e4c\u195a\u31b7\u6265\u4eea\u2599\u43c3\u6310\u2685\u0b8c\u17193\u6422\u25cd\u3373\u6696\u0d2d\u1e5d\u37b1\u736f\u4ae8\u35c9\u7188\u1312\u45c7\u4b4c\u1719\u2b30\u6e64\u1c00\u4318\u0696\u2e0e\u5919\u1902\u312e\u665c\u2800\u1b68\u2776\u2e4c\u591a\u32b3\u0573\u5c64\u38c0\u01b9\u60e0\u4c2c\u5b5c\u3932\u6473\u58ca\u1da5\u2343\u10a7\u25c6\u4e4c\u1896\u322e\u605c\u3408\u2b90\u7626\u4e4d\u1cdb\u37ba\u6172\u4ace\u5415\u0171\u32e3\u2186\u585b\u3734\u635f\u42d0\u39b9\u632b\u1016\u4006\u0180\u32ba\u706d\u48c2\u4415\u2171\u42e3\u2186\u585b\u3734\u635f\u42d0\u39b9\u632b\u1016\u4006\u03c0\u37b4\u7473\u58d2\u3995\u232b\u7777\u6e4d\u5cda\u1a02\u302e\u645c\u203c\u1b7b\u1747\u2d8d\u5b99\u3a32\u6f77\u56e4\u15cd\u7188\u6302\u2605\u4000\u3284\u746e\u5cc2\u319d\u232b\u1066\u65c6\u4b8c\u1998\u0a02\u5cca\u1591\u2393\u6617\u6d6d\u425c\u1718\u3231\u625c\u40b8\u6191\u16d0\u4d2c\u57db\u3431\u6e61\u4adc\u15b1\u7188\u6302\u0605\u0080\u3189\u6d6f\u5eda\u0db9\u030b\u2617\u0d2c\u1a5b\u34ba\u7365\u640a\u64b8\u0171\u30c3\u2d0c\u1b98\u32b7\u5f6c\u42da\u39a5\u082b\u02e3\u05c6L\u0701\u7263\u66c2\u55a1\u4ba3\u16c6\u2e8d\u595a\u01b9\u4e41\u0eb2\u15b8\u3ba3\u26f7\u2d6e\u4c80\u0080\u6712\u68ca\u51a5\u7ba3\u5676\u0e8c\u195a\u3239\u6f72\u66e0\u2005\u2330\u2627\u4c2e\u5adb9\u6d09\u6ec6\u1599\u1b73\u3656\u20ae\u0b8c\u17187\u4c18\u15d5\u3b63\u56f6\u0e6c\u195a\u32b9\u310e\u625c\u38e4\u6991\u6302\u4625\u0c0b\u1817\u0d00\u72f0\u498d\u330b\u7746\u6eeb\u1c9b\u3236\u3006\u6a5c\u44b8\u11b9\u7100\u4d2e\u195c\u32b6\u7373\u50c6\u4985\u2b3b\u3726\u20ae\u0b8c\u1718\u0438\u42da\u39a5\u080b\u0003\u6160\u5a5c\u3836\u796c\u52d8\u219d\u2ba3\u6311\u2625\u0b8e\u1699\u2e31\u5c68\u34d4\u2b11\u4697\u4c8d\u0d0b\u0119\u6d0b\u64ca\u4595\u2bab\u4736\u4cae\u431c\u1718\u3931\u645c\u44b4\u0171\u32e3\u40e6\u195b\u3bba\u726f\u02d6\u00c4\u7810\u6650\u0d2e\u18db\u30b9\u7466\u5ec6\u41b5\u230b\u1067\u45c6\u4b8c\u1b18\u630c\u42d0\u39b9\u632b\u55f6\u2c2d\u5b9a\u1882\u302e\u605c\u0804\u2038\u1706\u4dcc\u1a5d\u0636\u2e31\u7262\u48b8\u2169\u32e3\u25c6\u410c\u30b6\u6e69\u6202\u0000\u1038\u76c6\u6c6d\u5d5a\u08b4\u2e31\u7262\u40b4\u0171\u62e3\u2686\u104b\u2826\u4148\u1204\u05c0\u1ba3\u7686\u0ead\u5a5b\u1884\u312e\u5c72\u34c8\u39b9\u5043\u2c2d\u5b9a\u1880\u0200\u641c\u5199\u7b7b\u36c6\u0e6e\u1bdd\u30b9\u6567\u6214\u44b8\u69c9\u6342\u4625\u0c0b\u3907\u7466\u5ede\u4db1\u239b\u26f7\u6c2e\u5959\u1881\u302e\u0002\u5010\u0b4b\u4626\u4661\u0c0b\u1897\u6d2d\u62c6\u44b8\u11c9\u20e0\u0cce\u5bdd\u3637\u6373\u5cde\u49d1\u637b\u10a6\u25c6\u4e4c\u1b16\u312e\u645c\u482c\u2333\u76f7\u6d8d\u18dc\u393a\u036c\u5c62\u04c0\u6800\u1760\u0d8d\u585b\u32b3\u7472\u5ede\u4db1\u0853\u12e3\u2726\u0c4b\u1817\u332e\u2200\u21d0\u132b\u16d7\u6d8c\u1957\u383c\u6e61\u52e6\u39bd\u084b\u6303\u4645\u0c0b\u1917\u0231\u5222\u51b9\u3b2b\u1726\u2e8c\u1919\u3aba\u6e6e\u58ca\u19cd\u7188\u6382\u0625\u430e\u3431\u6e61\u4adc\u7db1\u0b6a\u6696\u20ad\u0b8c\u1718\u0130\u2a00\u65b4\u239b\u3697\u0c2c\u58db\u39ba\u6f74\u52da\u05e9\u4ba3\u66f6\u00ad\u0b8d\u1718\u0231\u4a14\u15b1\u0bb3\u7746\u2e4d\u191a\u1886\u312e\u5c72\u34c8\u7189\u6382\u0725\u5b43\u34b0\u5f6e\u50c6\u3985\u2b73\u16c6\u0620\u4000\u3305\u6274\u58ea\u25d1\u4b6b\u56e6\u222c\u0e4c\u1918\u342e\u605c\u08b4\u4bab\u46c6\u65cc\u0dcd\u0880\u6562\u68e8\u4995\u239b\u7727\u6dcd\u5a19\u3637\u7364\u6224\u44b8\u71c9\u5322\u68c5\u5c9b\u32b3\u332d\u645c\u40b8\u3801\u5720\u2dce\u5b19\u31b4\u3106\u5c68\u38c4\u01a1\u20e0\u6cae\u5bdc\u393a\u6563\u6acc\u31b1\u134b\u1066\u25c6\u0b8c\u1999\u0602\u60e6\u49a5\u234b\u2057\u45c6\u0b8c\u061a\u616d\u5cd2\u0d7d\u0b43\u66e6\u0cad\u405b\u0018\u0d00\u4ada\u05ad\u4b73\u5736\u6e8d\u1bdb\u39b6\u3106\u5c60\u38cc\u11c1\u1080\u6e4c\u57dc\u3931\u6f65\u660a\u44b8\u1971\u6073\u0cad\u5ddd\u3937\u036b\u5c62\u04c0\u2800\u6691\u2ecd\u1b99\u37ba\u7972\u64e0\u19bd\u634b\u3656\u2dce\u1e19\u02ba\u2e31\u5c72\u00d0\u2060\u5656\u2e0c\u1c99\u30b2\u6b72\u64ca\u4415\u0971\u62e3F\u1843\u31b9\u6968\u4ae8\u518d\u13ab\u6797\u46c0\u0d4b\u1b17\u0739\u4adc\u5dd1\u137b\u16b7\u2620\u4080\u3186\u6d6f\u6ae0\u15d1\u1b93\u1726\u0ccc\u41dd\u1718\u3031\u5c62\u1cc8\u2b70\u7746\u4dee\u5adc\u1883\u312e\u6260\u48b8\u1001\u00e0\u6e4e\u591b\u31ba\u6974\u4aec\u1589\u1b2b\u10f7\u25c6\u0e4c\u1917\u302d\u625c\u38c0\u71a9\u0332\u2c41\u1e9d\u34bd\u676e\u02c2\u00c4\u4810\u2740\u6c2e\u5a1c\u30b1\u736e\u620e\u40b8\u0971\u1373\u208c\u585b\u3734\u3101\u0600\u244c\u3373\u6657\u6e8d\u5c9b\u32bc\u7373\u5cca\u25d1\u630b\u7736\u2dc0\u5d19\u37bb\u6b72\u6206\u40b8\u1009\u30a0\u2dae\u1b18\u39b6\u6968\u66e0\u4829\u0171\u02e3\u25a6\u0c18\u1a17\u6407\u4cca\u5585\u2363\u1057\u05c6\u0b8c\u0098\u0a00\u44de\u15cd\u3393\u2617\u2d8c\u4159\u1719\u2e33b\u3030\u232b\u56d7\u2c8c\u1cd9\u30b8\u6e77\u600e\u40b8\u7a71\u54e4\u4008\u5e44\u32b2\u7574\u4ae6\u41e1\u132b\u5697\u4cad\u5d1b\u39ba\u3116\u605c\u44b8\u1169\u1756\u0d8d\u0b99\u1599\u636d\u5c62\u64c4\u0971\u1013\u2ce2\u5b58\u36b2\u6e65\u5aea\u11bd\u037b\u1747\u4ded\u409b\u3b04\u696f\u68c8\u51bd\u6b2b\u2056\u25c6\u0b8c\u0998\u6f74\u4ae8\u7db5\u332a\u5666\u0c6c\u17dd\u30b8\u6b63\u68ca\u4405\u0001\u2050\u2d0e\u5b9a\u0937\u3931\u6460\u48b8\u1171\u22d3\u2eac\u1b1a\u1732\u3632h\u0838\u3b4b\u5676\u4e4c\u595c\u31b0\u6f74\u66e4\u4039\u3171\u02e3\u45a6\u1958\u30ba\u362e\u625c\u3000\u7b90\u46f6\u6e6e\u5b18\u39b0\u6973\u1ac6\u38c4\u4989\u22e3\u25a6\u4b8c\u1718\u3533\u1000\u558c\u2b1b\u26d7\u4cac\u015c\u171b\u2e30l\u0420\u132b\u4773\u2d8e\u189a\u1883\u2e32\u5c70\u08d4\u2048\u1727\u0e6c\u1cda\u37b6\u0674\u6462\u40b8\u1171\u6073\u0cad\u5ddd\u3937\u036b\u5c62\u00c0\u1808\u56a0\u4d2d\u0240\u3631\u6575\u58cc\u3585\u732b\u6310\u2625\u0b8e\u1699\u2e30\u5c62\u38c0\u6191\u1660\u2e4d\u57d9\u3431\u6e61\u4adc\u05b1\u0188\u4020\u6e62\u1c1b\u34b4\u7473\u46d2\u5185\u232b\u4736\u4dee\u585c\u32b3\u3111\u625c\u38e4\u6991\u6302\u46c5\u0c4b\u171b\u3732\u0e6c\u218c\u730b\u56e6\u2d8c\u0c40\u0000\u6112\u48c8\u51a5\u7b4b\u16e6\u0d8c\u185b\u3a37\u7265\u66dc\u4415\u0171\u42e3\u6006\u1a42\u32ba\u666d\u58d2\u15d1\u1b93\u1117\u0726\u0c8c\u1917\u392e\u445a\u25d5\u2363\u42e6\u46c6\u4380\u3632\u6d65\u5cca\u05d1\u1b63\u1726\u0ccc\u435d\u1718\u3931\u645c\u54b4\u2971\u12e3\u0606\u5b41\u34b0\u026e\u6662\u0800H\u16c7\u4e8c\u1bd9\u36b9\u0673\u5c62\u40c4\u1171\u50c3\u2c2d\u5b9a\u31af\u6168\u5cdc\u3195\u082b\u02e3\u05c6\f\u0681\u7274\u6cc2\u3195\u730b\u0636\u4ded\u1cdc\u1886\u312e\u5c72\u34c8\u71a1\u6312\u4645\u5b82\u3a32\u6863\u5cc2\u15b9\u0b63\u0360\u0000\u5c02\u3737\u6564\u54e4\u0dcd\u7208\u0594\u21c0\u5b99\u37b9\u6372\u58ca\u05b1\u4ba3\u66f6\u010d\u0b8d\u1719\u2e30\u6862\u1808\u1318\u1657\u2e8c\u01d9\u1718\u2e35\u5c60\u11a4\u0b68\u6696\u402d\f\u0481\u6177\u66f2\u3dd1\u2b73\u6736\u2620\u4b8c\u1719\u0731\u4adc\u5dd1\u137b\u36b7\u4620\u0c0b\u0000\u740d\u4ad0\u35c9\u630b\u55f6\u0f0c\u5c9d\u02b0\u2e33\u5c60\u00c8\u3048\u3616\u6e8e\u5d5c\u3a34\u0565\u5c68\u38c0\u0181\u3060\u2d8c\u1b5d\u39b8\u3908\u605c\u40b8\u0959\u3343\u4142\u5bda\u393a\u656e\u5af2\u4185\u084b\u5646\u4d2d\u17db\u32b9\u0171\u0262\u5c20\u4b0b\u7707\u4d2d\u5d1b\u1880\u0c01\u4ae8\u15b1\u7b83\u4726\u4bee\u595c\u00b8\u0131\u5a1c\u7dc1\u037a\u1747\u4ded\u5cdb\u392f\u7165\u6202\u2804\u2308\u16d6\u6dcd\u5cd7\u3b30\u0165\u0262\u581c\u132b\u1737\u4ded\u405b\u0098\u6306\u5ade\u3db5\u0b73\u1310\u0140\u5b1c\u3cb0\u7265\u58be\u0dbd\u080b\u0013\u2e01\u5c99\u2fb6\u6572\u02e2\u04c4\u4010\u7630\u4dad\u1bd9\u3a39\u0c73\u5c6c\u38c0\u59a1\u6312\u2625\u0b8e\u0219\u616d\u5cd2\u4405\u1001\u1090\u0e4c\u1a5d\u30b3\u7463\u18e6\u38c4\u4989\u22e3\u25a6\u0b8d\u1718\u0432\u42da\u39a5\u080b\u5003\u6140\u1bd8\u3337\u6769\u64ea\u1195\u404b\u6616\u6c8d\u5a1c\u35b0\u0165\u0262\u4010\u0b63\u1796\u0620\u0080\u3205\u6d69\u68e6\u49bd\u3b0b\u5656\u46e0\u0c8b\u1817\u6e03\u68ca\u4405\u0001\u5140\u6f2d\u195c\u3b39\u7265\u66d2\u3d8d\u036b\u4617\u4d2e\u5b18\u01b2\u2e31`\u1030\u73ab\u5676\u4dec\u18db\u30b9\u6c77\u640c\u4cb8\u0971\u0323\u61e0\u5a18\u3930\u6967\u4edc\u059d\u3b23\u4656\u2e6e\u0c41\u1c97\u302e\u0e00\u05b0\u4bd3\u6647\u2eac\u0c01\u1897\u332e\u2000\u65e0\u131b\u6617\u6e8c\u1bd7\u32bb\u7272\u48d2\u1995\u7180\u6352\u6625\u008d\u3684\u6a63\u72e8\u25b1\u5313\u6310\u2625\u4b4e\u171b\u2e31\u106a\u0db4\u2353\u4797\u4d2d\u40d8\u1718\u0130\u2600\u1588\u23a3\u2657\u2c8e\u5cd9\u3932\u7474\u5aca\u31c1\u1b2b\u1127\u25c6\u0e4c\u1917\u462d\u64de\u159d\u116b\u22e3\u45c6\u408c\u3685\u6861\u6ade\u4dd1\u5bab\u1616\u21ed\u4b8c\u1c98\u322e\u6c5a\u38c5\u2199\u42e3\u0646\u5b43\u34b0\u5f6e\u50c6\u3985\u2b73\u16c6\u0620\u0080\u348c\u746e\u4eca\u05c9\u2ba3\u4646\u4f2c\u585b\u34b6\u7363\u5ec6\u41b5\u230b\u1067\u25c6\u0d8c\u1917\u630c\u42d0\u39b9\u632b\u55f6\u2c2d\u5b9a\u1882\u302e\u605c\u0804\u6868\u6696\u4d2d\u59db\u30b3\u6764\u68ca\u19cd\u7188\u3312\u05c6\u450c\u30b6\u6e69\u5cbe\u5195\u7bbb\u3726\u6bed\u5a18\u3730\u656e\u02d8\u00c8\u5010\u5680\u6f0c\u5858\u3a39\u6e69\u0cce\u38c0\u0189\u32e3\u2086\u585b\u3734\u3101\u0000\u1824\u13a3\u0636\u4ead\u5adb\u09b9\u3931\u6460\u4cb8\u0971\u5383\u2c45\u1a5d\u3236\u322e\u7068\u3008\u4bc0\u2637\u4c2e\u5d19\u31af\u726f\u0cca\u38c0\u71a9\u7312\u2086\u585b\u3734\u3101\u0400\u344c\u1bcb\u1747\u2c6d\u5b18\u33b0\u6972\u6ac6\u51b1\u13ab\u5657\u46c0\u0c0b\u1c17\u6d04\u52c2\u0db9\u7188\u1302\u4060\u18c3\u30b9\u7466\u5cd2\u519d\u2bbb\u3616\u6e6d\u5b81\u3a32\u6f77\u56e4\u440d\u0171\u2013\u41c0\u199c\u37ba\u6c6f\u6ae6\u25d1\u4b63\u1746\u214f\u4b8c\u1c98\u352d\u625c\u50b8\u1071\u4667\u6dee\u5b1b\u3ab9\u6974\u52d8\u65d1\u081b\u02e3&\u0180\u34b6\u6962\u5ce0\u4815\u0171\u42e3\u6046\u5cc2\u3132\u7361\u64e8\u31b9\u134b\u2056\u05c6\u0b8c\u0599\u6573\u42c4\u51cd\u7393\u16c6\u4c4d\u1d81\u1719\u2e30d\u2408\u7b68\u66f6\u2d8d\u19da\u3a34\u310d\u625c\u38e4\u6991\u6322\u4645\u4c8b\u039b\u6863\u5cc2\u15b9\u0b63\u0310\u2040\u5943\u31b1\u6e65\u64e8\u0da5\u7ba3\u56d6\u218c\u4b8c\u1c98\u322e\u625a\u64b8\u0971\u7073\u4cac\u195b\u30b9\u0f6c\u46ca\u158d\u2373\u1727\u0c6d\u5bdd\u32b6\u313a\u0402\u5020\u7b7b\u26c6\u0cac\u1d1b\u1883\u312e\u5c72\u1cdc\u2b38\u56e6\u2e4c\u5b18\u1881\u302e\u0400\u5020\u234b\u6617\u2d2d\u5b5d\u1982\u372e\u645c\u381c\u232b\u7777\u6e4d\u40da\u1718\u0130\u1204\u25cc\u2b63\u46e6\u2d8e\u589a\u1b82\u302e\u665c\u381c\u232b\u7777\u6e4d\u405a\u0018\u0900\u4ac2\u50c9\u4b43\u76e6\u2e6c\u0c41\u1897\u312e\u0e04\u21d0\u2b2b\u7727\u0f2c\u0c43\u1897\u2e39\u5a64\u38c4\u7199\u4302\u2da0\u1a58\u00b71\u1400\u35cc\u7b7b\u0746\u6c4d\u1bdb\u02ba\u2e30\u5c60\u00c8\u4838\u5636\u2c4c\u5c99\u01b3\u4e41\u04b2\u4824\u632b\u1696\u2eae\u5c98\u093c\u2e31\u7262\u48b8\u1169\u02e3\u45c6\u0c0c\u1897\u3631\u0e6c\u218c\u730b\u56e6\u2d8c\u0c40\u0100\u7105\u42ea\u2dc9\u183b\u42e3\u65a6\u0e4c\u021a\u616d\u5cd2\u4405\u0001\u3070\u2d0c\u1b59\u34b6\u0d62\u5c62\u64c4\u1171\u22d3\u05c6\u4b8c\u1b98\u0600\u52e0\u419d\u732b\u2006\u4120\u5859\u3a39\u6562\u46dc\u15a1\u71b8\u6302\u6625\u18c1\u30b4\u6e6e\u58ca\u5015\u3171\u02e3\u4026\u0300\u3633\u7875\u4adc\u5dd1\u137b\u36b7\u610e\u4b8d\u1718\u2e33\u6462\u381c\u232b\u7777\u6e4d\u40da\u181b7\u1a04\u4984\u7b9b\u4655\u2cad\u195b\u3a37\u6c61\u621c\u44b8\u71c9\u5322\u4605\u0d4b\u1c17\u322e\u5a08\u2585\u0b73\u0310\u6000\u1942\u3237\u7265\u50c6\u4d95\u1ba3\u1097\u25c6\u0c0c\u1897\u302eb\u0418\u0383\u7627\u2e8d\u0c41\u1a17\u322e\u1604\u3db4\u7b23\u76e6\u2dad\u58da\u3737\u310d\u625c\u38e4\u6991\u6312\u0665\u0b8c\u0218\u616d\u5cd2\u4405\u0001\u1060\u2eae\u1c98\u3d3a\u300e\u625c\u40b8\u1169\u4656\u4c2e\u0c8b\u1897\u0c02\u52da\u15b9\u7b1b\u76c6\u2dcd\u595a\u0a39\u2e31\u7262\u48b8\u0969\u02e3\u25c6\u0c8c\u1b9a\u422d\u288a\u2d05\u2b70\u5746\u0c65\u185a\u3737\u6c65\u6228\u44b8\u71c9\u5322\u4625\u0c0b\u1897\u3432\u5a6e\u1508\u0aa2\u2004\u00c0\u1e5c\u37b6\u736e\u660a\u44b8\u0171\u5043\u2c2d\u5b9a\u1880\u0000\u461e\u15c9\u032b\u2657\u4dee\u195d\u3439\u7561\u0ad8\u38c8\u7181\u1392\u4160\u1959\u3939\u7469\u46ca\u49bd\u132b\u50e0\u6dcc\u1a59\u32b7\u7265\u48e6\u0d95\u137b\u1067\u65c6\u0b8c\u1c19\u640a\u4cca\u5585\u2363\u35f7\u2d0c\u0c40\u0100\u7309\u58de\u058d\u1393\u46f7\u21ae\u4b8c\u1c98\u322e\u625a\u44b8\u71a1\u4302\u2da0\u1a58\u01b7\u2e31`\u4408\u2b30\u36e7\u2e8c\u1bda\u30b7\u736c\u5ee8\u05c9\u2b3b\u10c6\u25c6\u0e4c\u1917\u312d\u625c\u4cb8\u7039\u4656\u6eee\u5c9b\u01b5\u2e31\u0260\u3800\u7b68\u5726\u4c8c\u585c\u37b3\u656e\u4ece\u0dcd\u7198\u2322\u21c0\u1bdb\u3ab2\u616c\u64e4\u55bd\u2ba3\u3726\u210e\u0c0c\u1917\u302e\u665a\u3430\u4b0b\u76e6\u0c6b\u185a\u3737\u6c65\u6402\u0400\u0860\u1736\u6dcf\u5b18\u31b7\u7461\u64de\u3809\u4318\u2616\u6dae\u599b\u373a\u7964\u5cd2\u319d\u71b0\u6312\u6625\u0c4a\u1897\u2e39\u0864\u05b4\u734b\u1016\u0006\u0500\u32b9\u6966\u4adc\u4d91\u7ba3\u1726\u2cec\u1859\u3232\u6e6f\u0ae6\u38c0\u71c9\u0302\u20c0\u1c18\u36b8\u6b65\u620a\u4cb8\u2171\u5003\u0ca1\u5c1e\u3730\u6164\u52c4\u25b1\u4ba3\u7057\u05c6\u0b8c\u0118\u6d09\u64de\u21c1\u7ba3\u46f6\u20cd\u0b8c\u169b\u3433\u5a08\u2585\u0b73\u0310\u4040\u18c3\u32b9\u7461\u42ca\u1191\u234b\u7697\u0dcd\u0c44\u1897\u2e39\u5a64\u40c8\u1991\u3303\u2626\u188d\u3682\u6961\u02dc\u00c4\u1008\u7771\u0e4d\u591b\u3734\u6f66\u6e74\u49bd\u2363\u15f6\u2c8d\u4c40",
-            "channels": [],
-            "mods": [],
-            "truncated": true
-        },
-        "preventsChatReports": true,
-        "previewsChat": false,
-        "geo": {
-            "country": "US",
-            "city": "Los Angeles",
-            "lat": 34.0485,
-            "lon": -118.2529
-        },
-        "org": "marbis GmbH",
-        "mods": []
-    },
-    {
-        "_id": "642999f68f472e403c020d0f",
-        "ip": "3.19.31.91",
-        "port": 25565,
-        "description": {
-            "text": "A Minecraft Server"
-        },
-        "enforcesSecureChat": null,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1682961433,
-        "players": {
-            "max": 20,
-            "online": 0
-        },
-        "version": {
-            "name": "1.12",
-            "protocol": 335
-        },
-        "geo": {
-            "country": "DE",
-            "city": "Mannheim",
-            "lat": 49.5251,
-            "lon": 8.4907
-        },
-        "org": "marbis GmbH",
-        "cracked": false
-    },
-    {
-        "_id": "642999f68f472e403c020d21",
-        "ip": "3.95.167.117",
-        "port": 25565,
-        "description": {
-            "text": "A Minecraft Server"
-        },
-        "enforcesSecureChat": false,
-        "hasFavicon": true,
-        "hasForgeData": false,
-        "lastSeen": 1688370925,
-        "players": {
-            "max": 20,
+            "max": 4,
             "online": 0
         },
         "version": {
@@ -633,96 +213,77 @@
             "protocol": 760
         },
         "geo": {
-            "country": "US",
-            "city": "Ashburn",
-            "lat": 39.0469,
-            "lon": -77.4903
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
         },
-        "org": "AMAZON-AES"
+        "org": "marbis GmbH"
     },
     {
-        "_id": "642999f68f472e403c020cce",
-        "ip": "1.34.79.56",
-        "port": 25565,
+        "_id": "642999fa8f472e403c02374b",
+        "ip": "5.83.164.40",
+        "port": 14200,
         "description": {
-            "text": "\n\u00a79\u935b\u9020\u7cfb\u7d71 "
+            "extra": [
+                {
+                    "clickEvent": {
+                        "action": "open_url",
+                        "value": "http://nitrado.net"
+                    },
+                    "text": "nitrado.net"
+                },
+                {
+                    "text": " gameserver"
+                }
+            ],
+            "text": ""
         },
-        "enforcesSecureChat": true,
+        "enforcesSecureChat": null,
         "hasFavicon": true,
         "hasForgeData": false,
-        "lastSeen": 1687770247,
+        "lastSeen": 1686894005,
         "players": {
-            "max": 100,
-            "online": 21,
-            "sample": [
-                {
-                    "id": "eef7bd9a-ea71-4c65-9671-d81e67811825",
-                    "name": "chuang_0521",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "2e381a3c-6e36-4050-8f20-9498fb04d274",
-                    "name": "zuuu0107",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "72c4e5af-3b13-4f8e-98a4-385c212dce7d",
-                    "name": "NCL_Z3A",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "336d8367-9bee-404d-a23b-dd1653266ae3",
-                    "name": "Shuan_0515",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "448ab85d-d15c-4620-a160-88d0d6405e4f",
-                    "name": "Howie0715",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "00000000-0000-0000-0000-000000000000",
-                    "name": "Anonymous Player",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "83aeac8e-23c6-4bb0-bfce-b44584e174ed",
-                    "name": "PPenguinHan",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "672f1d10-835a-4a92-9831-f95bfd978571",
-                    "name": "Johna_tw",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "9594e7b3-4926-4cf5-86f9-433f0276aa0a",
-                    "name": "derek1066",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "37ef47ae-da7b-4b73-bd3a-2298896cd022",
-                    "name": "ZeroLin_520",
-                    "lastSeen": 1687770247
-                },
-                {
-                    "id": "1010579d-3966-4095-993f-5a12e30feef0",
-                    "name": "Hiei147Poi",
-                    "lastSeen": 1687770247
-                }
-            ]
+            "max": 4,
+            "online": 0
         },
         "version": {
-            "name": "1.20.1",
-            "protocol": 763
+            "name": "Spigot 1.18.1",
+            "protocol": 757
         },
-        "cracked": false,
         "geo": {
-            "country": "TW",
-            "city": "Taoyuan District",
-            "lat": 24.9889,
-            "lon": 121.3176
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
         },
-        "org": "Data Communication Business Group"
+        "org": "marbis GmbH"
+    },
+    {
+        "_id": "642999fa8f472e403c023778",
+        "ip": "5.83.164.61",
+        "port": 55800,
+        "description": {
+            "text": "nitrado.net gameserver"
+        },
+        "enforcesSecureChat": null,
+        "hasFavicon": true,
+        "hasForgeData": false,
+        "lastSeen": 1681629478,
+        "players": {
+            "max": 4,
+            "online": 0
+        },
+        "version": {
+            "name": "1.19.4",
+            "protocol": 762
+        },
+        "geo": {
+            "country": "DE",
+            "city": "Mannheim",
+            "lat": 49.5251,
+            "lon": 8.4907
+        },
+        "org": "marbis GmbH"
     }
 ]

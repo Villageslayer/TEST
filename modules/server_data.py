@@ -3,8 +3,14 @@ import json
 
 API_BASE_URL = 'https://api.cornbread2100.com'
 
-def fetch_and_save_server_data(fetch_query, output_file):
-    server_response = requests.post(f'{API_BASE_URL}/servers', json=fetch_query)
+def fetch_and_save_server_data(fetch_query, output_file, skip=None, limit=None):
+    params = {}
+    if skip is not None:
+        params['skip'] = skip
+    if limit is not None:
+        params['limit'] = limit
+
+    server_response = requests.post(f'{API_BASE_URL}/servers', json=fetch_query, params=params)
     if server_response.status_code == 200:
         server_data = server_response.json()
         if server_data:
