@@ -16,7 +16,7 @@ def fetch_data():
 
 def get_count():
     fetch_query = {
-        "hasFavicon": True
+       
     }
     server_count = get_server_count(fetch_query)
     print(f'Total number of servers matching the filter criteria: {server_count}')

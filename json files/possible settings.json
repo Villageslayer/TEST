@@ -1,0 +1,72 @@
+{
+    "fetch_queries": [
+      {
+        "name": "All Servers",
+        "query": {}
+      },
+      {
+        "name": "Servers with Favicon",
+        "query": { "hasFavicon": true }
+      },
+      {
+        "name": "Servers in USA",
+        "query": { "geo.country": "US" }
+      },
+      {
+        "name": "Servers with Minimum Online Players",
+        "query": { "players.online": { "$gte": 10 } }
+      },
+      {
+        "name": "Servers with Maximum Online Players",
+        "query": { "players.online": { "$lte": 50 } }
+      },
+      {
+        "name": "Servers with Full Capacity",
+        "query": {
+          "$expr": { "$eq": ["$players.online", "$players.max"] },
+          "players": { "$ne": null }
+        }
+      },
+      {
+        "name": "Servers with Description",
+        "query": {
+          "$or": [
+            { "description": { "$regex": "awesome server", "$options": "i" } },
+            { "description.text": { "$regex": "awesome server", "$options": "i" } },
+            { "description.extra.text": { "$regex": "awesome server", "$options": "i" } }
+          ]
+        }
+      },
+      {
+        "name": "Servers with Player Name",
+        "query": {
+          "players": { "$ne": null },
+          "players.sample": { "$exists": true, "$elemMatch": { "name": "PlayerName" } }
+        }
+      },
+      {
+        "name": "Servers with Player List",
+        "query": {
+          "players.sample": { "$exists": true },
+          "players.sample": { "$not": { "$size": 0 } }
+        }
+      },
+      {
+        "name": "Servers Seen After",
+        "query": { "lastSeen": { "$gte": "2023-01-01T00:00:00Z" } }
+      },
+      {
+        "name": "Servers in IP Range",
+        "query": { "ip": { "$regex": "^(192|10)\\..*", "$options": "i" } }
+      },
+      {
+        "name": "Servers in Specific Country",
+        "query": { "geo.country": "USA" }
+      },
+      {
+        "name": "Servers with Specific Organization",
+        "query": { "org": "Organization Name" }
+      }
+    ]
+  }
+  
