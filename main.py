@@ -7,17 +7,18 @@ API_BASE_URL = 'https://api.cornbread2100.com'
 def fetch_data():
     skip = int(input("Enter the number of results to skip: "))
     limit = int(input("Enter the number of results to limit: "))
-    fetch_query = {
-        "hasFavicon": True
-    }
+    
+    with open('query.json') as query_file:
+        fetch_query = json.load(query_file)
+
     output_file = 'server_data.json'
     fetch_and_save_server_data(fetch_query, output_file, skip=skip, limit=limit)
     print('Server data fetched and saved.')
 
 def get_count():
-    fetch_query = {
-       
-    }
+    with open('query.json') as query_file:
+        fetch_query = json.load(query_file)
+
     server_count = get_server_count(fetch_query)
     print(f'Total number of servers matching the filter criteria: {server_count}')
 
